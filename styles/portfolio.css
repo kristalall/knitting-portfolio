@@ -9,3 +9,16 @@ p {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
 }
+
+h1 {
+  font-size: 72px;
+}
+
+h2 {
+  font-size: 34px;
+}
+
+.header {
+  background: rgb(190, 187, 187);
+  padding: 60px;
+}
