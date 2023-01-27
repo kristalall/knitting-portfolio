@@ -5,12 +5,12 @@ body {
 h1,
 h2,
 h3 {
-  font-family: "Playfair Display", serif;
+  font-family: "Bebas Neue", cursive;
   font-weight: bold;
 }
 
 p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: normal;
   color: whitesmoke;
   text-align: center;
@@ -41,8 +41,28 @@ img {
   padding: 60px;
 }
 
+.about-section {
+  background: rgb(190, 187, 187);
+}
+
+.container {
+  max-width: 900px;
+}
+
+.about-section img {
+  max-height: 500px;
+}
+
 @media (max-width: 760px) {
   p {
     font-size: 16px;
+  }
+
+  .about-section h1 {
+    font-size: 72px;
+  }
+
+  .about-section img {
+    max-height: 350px;
   }
 }
