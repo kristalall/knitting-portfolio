@@ -36,6 +36,11 @@ img {
   margin: 0 auto;
 }
 
+nav a {
+  padding: 0 50px;
+  margin: 0 5px;
+}
+
 .header {
   background: rgb(190, 187, 187);
   padding: 60px;
@@ -70,6 +75,10 @@ img {
   background: #999999;
   padding: 20px;
   margin: 0 20px 40px;
+}
+
+.contact {
+  margin: 75px auto;
 }
 
 @media (max-width: 760px) {
