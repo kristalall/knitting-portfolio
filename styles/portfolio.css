@@ -14,7 +14,7 @@ p {
   font-weight: normal;
   color: whitesmoke;
   text-align: center;
-  font-size: 22px;
+  font-size: 20px;
   background: #555555;
   padding: 5px;
   margin: 5px 10px;
@@ -22,11 +22,11 @@ p {
 }
 
 h1 {
-  font-size: 72px;
+  font-size: 80px;
 }
 
 h2 {
-  font-size: 34px;
+  font-size: 44px;
 }
 
 img {
@@ -86,7 +86,7 @@ footer i {
   max-height: 585px;
 }
 
-.tutorial-caption {
+.caption {
   max-width: 350px;
   margin: 0 auto;
 }
@@ -106,8 +106,8 @@ footer i {
     font-size: 16px;
   }
 
-  .content h1 {
-    font-size: 72px;
+  h1 {
+    font-size: 68px;
   }
 
   .content img {
