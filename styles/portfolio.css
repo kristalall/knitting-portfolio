@@ -78,17 +78,26 @@ footer i {
   max-height: 500px;
 }
 
+.jump-to-links {
+  color: #333333;
+}
+
+.jump-to-links:hover {
+  color: #555555;
+  transition: 150ms ease-in-out;
+}
+
+.caption {
+  max-width: 350px;
+  margin: 0 auto;
+}
+
 .tutorial-video {
   max-width: 330px;
   padding: 0;
   border: 5px solid #777777;
   border-radius: 10px;
   max-height: 585px;
-}
-
-.caption {
-  max-width: 350px;
-  margin: 0 auto;
 }
 
 .tutorial-entry {
